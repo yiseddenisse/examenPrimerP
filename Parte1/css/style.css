@@ -1,0 +1,39 @@
+h1 {
+	color:rgb(8, 6, 50);
+	font-family:fantasy;
+	font-size:30pt;
+    text-align:center;
+	width:100%;
+}
+img {
+    display:block;
+    margin: auto;
+    border: 5px solid rgb(98, 128, 0);
+    border-style: double;
+    width: 50%;
+}
+h2 {
+	color:rgb(4, 3, 20);
+	font-size:15px;
+    text-align:center;
+}
+h3 {
+	color:rgb(4, 3, 20);
+	font-size:15px;
+    text-align:center;
+}
+body {
+    background-color:rgba(241, 160, 238, 0.862) ;
+}
+.fecha {
+    font-weight: bold;
+}
+footer {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 50px;
+}
+.datos {
+    display: flex;
+    flex-direction:column-reverse;
+  }
